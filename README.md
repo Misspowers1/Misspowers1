@@ -1,3 +1,1 @@
-Hi 👋 My name is Edna Atieno  
-Software Engineer
-🌍 I'm based in Narobi, Kenya.
+Hi 👋 My name is Edna Atieno, Software Engineer based in Narobi, Kenya.
